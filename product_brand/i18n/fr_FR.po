@@ -1,11 +1,11 @@
-# Translation of OpenERP Server.
+# Translation of Odoo Server.
 # This file contains the translation of the following modules:
 #	* product_brand
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OpenERP Server 5.0.7\n"
-"Report-Msgid-Bugs-To: support@openerp.com\n"
+"Project-Id-Version: Odoo Server 5.0.7\n"
+"Report-Msgid-Bugs-To: support@odoo.com\n"
 "POT-Creation-Date: 2014-03-14 12:55+0000\n"
 "PO-Revision-Date: 2014-03-11 12:42+0000\n"
 "Last-Translator: Graeme Gellatly <Unknown>\n"

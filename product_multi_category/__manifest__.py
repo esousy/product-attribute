@@ -4,17 +4,17 @@
 
 {
     "name": "Product - Many Categories",
-    "version": "9.0.1.0.0",
+    "version": "10.0.1.0.0",
     "author": "Akretion,Guewen Baconnier,Camptocamp,Avanzosc,"
     "Sharoon Thomas,Sodexis,Odoo Community Association (OCA)",
     "contributors": ["Mikel Arregi <mikelarregi@avanzosc.es>"],
     "website": "",
     "license": "AGPL-3",
     "category": "Product Management",
-    "depends": ['base', 'product'],
+    "depends": ['base', 'stock'],
     "data": [
         'views/product_view.xml'
     ],
     'images': [],
-    'installable': False,
+    'installable': True,
 }
